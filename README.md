@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩸 BloodConnect - Blood Donation Platform
 
 A comprehensive blood donation platform connecting hospitals with donors through real-time matching and emergency notifications.
@@ -221,3 +222,6 @@ For support, email support@bloodconnect.com or create an issue in the repository
 ---
 
 **Save Lives. Donate Blood. 🩸**
+=======
+# blood-donation
+>>>>>>> e4ef6e90f7dcf1240054f2f71c4a41150cff2c19
